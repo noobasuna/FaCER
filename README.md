@@ -215,17 +215,3 @@ python find_fci.py
   year={2026}
 }
 ```
-
-## Authors
-
-- **Tan Pei Sze** -- peiszetan26@gmail.com
-- **Sailaja Rajanala** -- sailaja.rajanala@monash.edu
-- **Arghya Pal** -- arghya.pal@monash.edu
-- **Raphael C.-W. Phan** -- raphael.phan@monash.edu
-- **Huey-Fang Ong** -- ong.hueyfang@monash.edu
-
-CyPhi (ΨΦ) AI Lab, School of Information Technology, Monash University
-
-## License
-
-Please contact the authors for licensing information.
